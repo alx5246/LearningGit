@@ -10,3 +10,6 @@ I have made a change!
 I made a second change in first_test
 
 Merged by fixing conflicts, and adding second_branch and first_branch conents
+
+Made changes to README in third branch
+

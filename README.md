@@ -23,5 +23,6 @@ Made change on SECOND repository
 Merged by fixing conflicts, and adding stuff added from FIRST repository to stuff added in SECOND repository
 
 Change in REPO 1, BRANCH-5
+Change in REPO 2, BRANCH-5
 
 
